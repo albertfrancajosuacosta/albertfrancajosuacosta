@@ -1,7 +1,9 @@
-### Hi there 👋
+### 👋
 
 Albert França Josuá Costa
+
 albertfrancajosuacosta@gmail.com
+
 https://www.linkedin.com/in/albert-josu%C3%A1-9aa550239/
 
 <!--
