@@ -2,7 +2,7 @@
 
 Albert França Josuá Costa
 albertfrancajosuacosta@gmail.com
-
+https://www.linkedin.com/in/albert-josu%C3%A1-9aa550239/
 
 <!--
 **albertfrancajosuacosta/albertfrancajosuacosta** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
